@@ -1,2 +1,2 @@
 # Dicoding-Day3-I
-Inisialisasi dan Assignment Nilai
+Inisialisasi dan Assignment Nilai Bilangan Riil
